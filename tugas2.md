@@ -1,5 +1,6 @@
 # Lab1Web Praktikum
-Nur Laila (312310149)
+faisal fajar(312310123)
+
 # Langkah-langkah pembuatan tab dasar
 Buat file baru dengan nama lab1_tag_dasar.html       
 Kemudian, buka file tersebut pada web browser  
